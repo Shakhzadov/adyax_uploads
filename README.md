@@ -1,5 +1,17 @@
-#About my job: 
-- Right now I can say, that page looks quite simple, which is a plus for understanding what we have to do on it. But in the same way it looks a bit boring, so maybe I need to use more CSS or even JS. 
-- All types of files can be uploaded. In 'real life' I think we have to choose some type, like image or text.
-- I don't like the way I need to go through, to see the list of files after upload new file. I think the best way is to reload the page automatically, if the upload was successfull.
-- Also I have to add functionality (download and delete files) and show the size of each file. If it is possible I will do this in 2 days.
+#About my job:
+
+Pluses:
++ Page looks quite simple for understanding what we have to do on it;
++ All types of files can be uploaded;
++ Page reloads automatically after uploading new files or deleting existing;
++ You can click on file and open it (to understand what is inside, before download);
++ Upload, Download and Deletion work;
+
+Minuses:
+- Page need more CSS or Bootstrap use on it;
+- File deletion can be done in a better way (by clicking the button);
+- File downloads are hardcoded (need to be fixed for sure);
+- It would be better to put filename, deletion and download in one table;
+- Parts of code in index.php need to be composed in a different files for better readability;
+
+
